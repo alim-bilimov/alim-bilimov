@@ -12,6 +12,8 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?logo=firebase&logoColor=FFCA28)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?logo=node.js&logoColor=339933)
+![Sass](https://img.shields.io/badge/-Sass-000?logo=sass&logoColor=CC6699)
+![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=E34F26)
 
 
 ### 🌐 Связь со мной:
