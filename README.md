@@ -1,6 +1,6 @@
-# Привет! 👋
+# Hi! 👋
 
-Меня зовут Алим, я опытный разработчик с большим интересом к созданию удобных, масштабируемых и эффективных приложений. Моя страсть — решать сложные задачи и создавать цифровые решения, которые вдохновляют.
+My name is Alim, I'm an experienced developer with a strong interest in creating user-friendly, scalable, and efficient applications. My passion is solving complex problems and creating digital solutions that inspire.
 
 ---
 
