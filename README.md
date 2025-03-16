@@ -4,7 +4,7 @@ My name is Alim, I'm an experienced developer with a strong interest in creating
 
 ---
 
-### 🛠️ Мои навыки и технологии:
+### 🛠️ My skills and technologies:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript&logoColor=3178C6)
@@ -16,11 +16,11 @@ My name is Alim, I'm an experienced developer with a strong interest in creating
 ![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5&logoColor=E34F26)
 
 
-### 🌐 Связь со мной:
+### 🌐 Contact me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000?logo=telegram&logoColor=white)](@alimchik_02)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&logoColor=0077B5)](www.linkedin.com/in/alim-bilimov-25032a33a)
 [![Email](https://img.shields.io/badge/-Email-000?logo=gmail&logoColor=EA4335)](alimbilimov@gmail.com)
 
 
-✨ Открыт к сотрудничеству над интересными проектами!
+✨ Open to collaboration on interesting projects!
