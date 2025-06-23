@@ -18,9 +18,10 @@ My name is Alim, I'm an experienced developer with a strong interest in creating
 
 ### 🌐 Contact me:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-000?logo=telegram&logoColor=white)](@alimchik_02)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?logo=telegram&logoColor=white)](https://t.me/alimchik_02)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&logoColor=0077B5)](www.linkedin.com/in/alim-bilimov-25032a33a)
-[![Email](https://img.shields.io/badge/-Email-000?logo=gmail&logoColor=EA4335)](alimbilimov@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-000?logo=gmail&logoColor=EA4335)](mailto:alimbilimov@gmail.com)
+
 
 
 ✨ Open to collaboration on interesting projects!
